@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramonpsilva
 - 👀 I’m interested in Java, Python, C, structural engineering numerical simulations
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, artificial neural networks, PINN, and RAG applications
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ramonps at duck dot com
 
